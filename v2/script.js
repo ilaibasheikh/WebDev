@@ -1,0 +1,1 @@
+alert("Welcome to Laiba's first web")
