@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Practice</title>
+    <style>
+        .container {
+            border: 2px solid white;
+            display: grid;
+            grid-template-columns: 200px 200px;
+            grid-template-rows: 200px 200px;
+            width: fit-content;
+
+        }
+
+        .container2 {
+            display: grid;
+            grid-template-columns: 100px 100px;
+            grid-template-rows: 100px 100px;
+        }
+
+        .box {
+
+            border: 2px solid;
+
+        }
+
+        .container3 {
+            display: grid;
+            grid-template-columns: 100px 200px 100px;
+            grid-template-rows: 100px 100px;
+        }
+         .box:nth-child(3){
+            grid-row: span 3;
+            
+        }
+
+        .container4 {
+            display: grid;
+            grid-template-columns: 200px 100px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            1
+        </div>
+        <div class="box container2">
+
+            <div class="box">
+                2
+            </div>
+            <div class="box">
+                3
+            </div>
+            <div class="box">
+                4
+            </div>
+            <div class="box">
+                5
+            </div>
+
+        </div>
+        <div class=" container3">
+
+            <div class="box">6</div>
+            <div class="box">7</div>
+            <div class="box">8</div>
+            <div class="container4">
+                <div class="box">9</div>
+                <div class="box">10</div>
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>
