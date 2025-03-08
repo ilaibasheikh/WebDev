@@ -1,0 +1,4 @@
+@import "tailwindcss"; 
+.icon-size {
+    font-size: 2rem; /* You can adjust this value */
+}
