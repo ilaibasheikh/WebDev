@@ -1,2 +1,2 @@
 # WebDev
- learning html,css 
+ learning html, css, javascript, bootstrap, tailwind, figma
