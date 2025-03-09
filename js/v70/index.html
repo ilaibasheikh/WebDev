@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 12</title>
+    <style>
+        .box {
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+            padding: 5px;
+            border: 2px solid;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div id="1" class="box">laiba </div>
+        <div id="2" class="box">laiba </div>
+        <div id="3" class="box">laiba </div>
+        <div id="4" class="box">laiba </div>
+        <div id="5" class="box">laiba </div>
+    </div>
+    <script>
+        
+        let boxes =document.querySelectorAll(".box")
+
+        function getRandomColor(){
+            let val1=Math.ceil(0 +Math.random() *255)
+            let val2=Math.ceil(0 +Math.random() *255)
+            let val3=Math.ceil(0 +Math.random() *255)
+            return `rgb(${val1}, ${val2}, ${val3})`;
+        }
+
+       
+        Array.from(boxes).forEach(box => {
+           
+                box.style.color = getRandomColor()
+                box.style.backgroundColor =  getRandomColor()
+            });
+    </script>
+</body>
+
+</html>

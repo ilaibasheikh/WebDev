@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    background-color: #1f1f1f; /* Dark background */
+    color: white; /* White text color */
+    font-family: Arial, sans-serif;
+    display: flex;
+    padding: 16px;
+}
+
+/* Container for both image and text */
+.card  {
+    display: flex;
+    align-items: center;
+}
+
+/* Style for the image container */
+.image-container {
+    margin-right: 16px;
+    position: relative;
+}
+.capsule{
+    position: absolute;
+    bottom: 7px;
+    z-index: 10;
+    right: 7px;
+    padding: 2px;
+    background-color: gray;
+    opacity: 0.7;
+    border-radius: 20%;
+    color: white;
+    font-size: 13px;
+}
+/* Style for rounded images */
+.rounded-image {
+    border-radius: 16px;
+}
+
+/* Text container for the description */
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Styling for video info */
+.video-info {
+    color: #A1A1A1; /* Light gray text */
+    font-size: 0.875rem; /* Smaller text */
+}

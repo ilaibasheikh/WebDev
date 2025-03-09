@@ -13,11 +13,11 @@ let obj ={
 for (const key in obj) {//forin
     
        
-        console.log(key)
+        console.log(obj)
         
     
 }
-for (const c of "laiba") { //iteratorloop ''forof
-    console.log(c)
+for (const c of obj) { //iteratorloop ''forof
+    console.log(obj)
     
 }
