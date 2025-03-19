@@ -1,2 +1,58 @@
-# WebDev
- learning html, css, javascript, bootstrap, tailwind, figma
+# WebDev Projects
+
+This repository showcases a series of web development projects built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Tailwind**  for design mockups.
+
+## Projects
+
+### 1. **ChickFlix**
+![ChickFlix](ChickFlix/final%20product/image.png)
+A movie streaming platform inspired by services like Netflix, using HTML and CSS.
+
+**Features:**
+- Landing page of streaming site
+- Responsive design 
+- Clean UI inspired by modern streaming services
+
+### 2. **Jamify**
+![Jamify](Jamify/final%20product/jamify.png)
+A music streaming platform inspired by services like Spotify, where users can listen to their favorite music, using HTML, CSS and Javascript.
+
+**Features:**
+- Audio player functionality
+- User-friendly interface 
+- Responsive design 
+
+### 3. **Y.com**
+![Y.com](Y.com/finalproduct/screenshot.png)
+A tweeting platform inspired by services like X.com, using HTML and TailwindCSS.
+
+**Features:**
+- Landing page
+- Clean and simple UI
+- Fully responsive design using TailwindCSS
+
+
+### 4. **Tic Tac Toe**
+![Tic Tac Toe](TicTacToe/finalproduct/screenshot.png)
+A simple web-based version of the classic Tic Tac Toe game, using HTML, CSS and Javascript.
+
+**Features:**
+- Interactive gameplay
+- Two-player mode
+- Basic JavaScript functionality for game logic
+
+---
+
+## Technologies Used
+
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling the pages. Used both plain CSS and frameworks like **Bootstrap** and **Tailwind** for faster, responsive design.
+- **JavaScript**: For interactive elements and game logic.
+
+---
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ilaibasheikh/WebDev.git
