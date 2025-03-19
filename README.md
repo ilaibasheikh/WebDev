@@ -6,7 +6,7 @@ This repository showcases a series of web development projects built using **HTM
 
 ### 1. **ChickFlix**
 ![ChickFlix](ChickFlix/final%20product/image.png)
-A movie streaming platform inspired by services like Netflix, using HTML and CSS.
+A movie streaming clone inspired by services like Netflix, using HTML and CSS.
 
 **Features:**
 - Landing page of streaming site
@@ -15,7 +15,7 @@ A movie streaming platform inspired by services like Netflix, using HTML and CSS
 
 ### 2. **Jamify**
 ![Jamify](Jamify/final%20product/jamify.png)
-A music streaming platform inspired by services like Spotify, where users can listen to their favorite music, using HTML, CSS and Javascript.
+A music streaming clone inspired by services like Spotify, where users can listen to their favorite music, using HTML, CSS and Javascript.
 
 **Features:**
 - Audio player functionality
@@ -24,7 +24,7 @@ A music streaming platform inspired by services like Spotify, where users can li
 
 ### 3. **Y.com**
 ![Y.com](Y.com/finalproduct/screenshot.png)
-A tweeting platform inspired by services like X.com, using HTML and TailwindCSS.
+A modern microblogging clone inspired by services like X.com (formerly Twitter). Built with HTML and TailwindCSS.
 
 **Features:**
 - Landing page
