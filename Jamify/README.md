@@ -4,5 +4,6 @@ A music streaming clone inspired by services like Spotify, where users can liste
 **Features:**
 - Audio player functionality
 - User-friendly interface 
-- Responsive design 
-![Jamify](Jamify/final%20product/jamify.png)
+- Responsive design
+- 
+![Jamify](/Jamify/final%20product/jamify.png)
