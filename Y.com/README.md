@@ -1,4 +1,9 @@
 # Y.com
- clone of your favourite tweeting platform using html and tailwind css (responsive)
+A modern microblogging clone inspired by services like X.com (formerly Twitter). Built with HTML and TailwindCSS.
 
-![Alt text](/finalproduct/screenshot.png);
+**Features:**
+- Landing page
+- Clean and simple UI
+- Fully responsive design using TailwindCSS
+
+![Y.com](/Y.com/finalproduct/screenshot.png)
