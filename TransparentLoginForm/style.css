@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+.martel-sans-bold {
+    font-family: "Martel Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+
+
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+.container h1 {
+    font-size: 40px;
+    border-bottom: 3px solid rgb(247, 247, 137);
+    margin-bottom: 33px;
+    padding: 0 13px;
+    text-align: center;
+    color: rgb(234, 236, 114);
+
+}
+
+.box {
+
+    width: 100%;
+    display: flex;
+
+    align-items: center;
+    border-bottom: 1px solid rgb(231, 231, 173);
+}
+
+.box input {
+    border: none;
+    outline: none;
+
+    padding: 5px 10px;
+
+    margin: 13px 3px;
+    font-size: 20px;
+    background: none;
+    color: white;
+}
+
+::placeholder {
+    color: rgb(221, 186, 154);
+
+}
+
+.buttonbox {
+    position: fixed;
+    margin: 10px 30px;
+    padding: 50px;
+}
+
+.btn {
+    cursor: pointer;
+    outline: none;
+    width: 100%;
+    margin: 12px 12px;
+    padding: 6px;
+    border-radius: 10px;
+
+    background-color: rgba(0, 0, 0, 0.3);
+    color: rgb(201, 185, 157);
+font-weight: bold;
+font-size: 20px;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    top: 10px;
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.btn::before {
+    background-color: black;
+    opacity: 0.1;
+    z-index: -1;
+    border-radius: 10px;
+    transition: opacity 0.3s ease;
+}
+
+.btn:hover::before {
+    opacity: 0.3;
+}
+
+
+
+.box img {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+}
