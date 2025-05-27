@@ -4,7 +4,7 @@ This repository showcases a series of web development projects built using **HTM
 
 ## Projects
 
-### 1. **ChickFlix**
+### 1. **ChickFlix** 
 ![ChickFlix](ChickFlix/final%20product/image.png)
 A movie streaming clone inspired by services like Netflix, using HTML and CSS.
 
@@ -12,6 +12,7 @@ A movie streaming clone inspired by services like Netflix, using HTML and CSS.
 - Landing page of streaming site
 - Responsive design 
 - Clean UI inspired by modern streaming services
+- [Check Repository](https://github.com/ilaibasheikh/ChickFlix)
 
 ### 2. **Jamify**
 ![Jamify](Jamify/final%20product/jamify.png)
@@ -20,7 +21,8 @@ A music streaming clone inspired by services like Spotify, where users can liste
 **Features:**
 - Audio player functionality
 - User-friendly interface 
-- Responsive design 
+- Responsive design
+- [Check Repository](https://github.com/ilaibasheikh/Jamify)
 
 ### 3. **Y.com**
 ![Y.com](Y.com/finalproduct/screenshot.png)
@@ -30,6 +32,7 @@ A modern microblogging clone inspired by services like X.com (formerly Twitter).
 - Landing page
 - Clean and simple UI
 - Fully responsive design using TailwindCSS
+- [Check Repository](https://github.com/ilaibasheikh/Y.com)
 
 
 ### 4. **Tic Tac Toe**
@@ -40,6 +43,7 @@ A simple web-based version of the classic Tic Tac Toe game, using HTML, CSS and 
 - Interactive gameplay
 - Two-player mode
 - Basic JavaScript functionality for game logic
+- [Check Repository](https://github.com/ilaibasheikh/TicTacToe)
 
 ### 5. **Transparent Login Form**
 ![Login](/TransparentLoginForm//finalproduct.png)
@@ -49,7 +53,8 @@ A simple transparent login form created using HTML and CSS.
 **Features:**
 - Works seamlessly with any background picture
 - Customizable
-- Cohesive Design 
+- Cohesive Design
+- [Check Repository](https://github.com/ilaibasheikh/TransparentLoginForm)
 
 
 ---
