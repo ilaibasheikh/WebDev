@@ -1,6 +1,6 @@
 # WebDev Projects
 
-This repository showcases a series of web development projects built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Tailwind**  for design mockups.
+This repository showcases a series of web development projects built using **HTML**, **CSS**, **JavaScript**, **Tailwind**  for design mockups.
 
 ## Projects
 
