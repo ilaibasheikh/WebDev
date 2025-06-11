@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>first page</p>
+<p>Razor Syntax</p>
+<p>Inline: Today date and time is @DateTime.Now</p>
+<p> Declaring variables:</p>
+@{
+    string name = "laiba";
+}
+<h2> name is @name</h2>
+
+<p>Conditional Statements</p>
+<p>If else</p>
+@{
+    int marks = 30;
+    if (marks >= 80)
+    {
+        <h2>Your grade is A1 beacuse marks are @marks</h2>
+    }
+    else
+    {
+        <h2>grade is B beacuse marks are @marks</h2>
+    }
+}
+<p>Switch</p>
+@{
+    string fruit = "apple";
+    switch (fruit)
+    {
+        case "banana": <h2>You have selected @fruit</h2>
+        break;
+    case "apple": <h2>You have selected @fruit</h2>
+    break;
+default:<h2>Invalid</h2>
+    break;
+
+}
+}
+
+<p>Loops</p>
+<p>For</p>
+@{ 
+    for (int i = 0; i < 10; i++)
+    {
+        <h2>@i</h2>
+    }
+}
+<p>For each</p>
+@{ 
+    string[] sports = { "football", "baseball" };
+    foreach (var sport in sports)
+    {
+        <h2>@sport</h2>
+    }
+}
