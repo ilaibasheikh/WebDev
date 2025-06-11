@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>@Session["Message"]</h2>
+<ul>
+    @{ 
+        foreach (var item in (string [])Session["fruitArray"])
+        {
+            <li>@item</li>
+        }
+    }
+
+</ul>
