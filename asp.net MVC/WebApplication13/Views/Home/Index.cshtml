@@ -1,0 +1,50 @@
+﻿
+@model WebApplication13.Models.Employee
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.LabelFor(model => model.id) &nbsp;
+        @Html.TextBoxFor(model => model.id)
+        @Html.ValidationMessageFor(model => model.id, "", new { @class = "text-danger" })
+    </p>
+    <p>
+        @Html.LabelFor(model => model.name) &nbsp;
+        @Html.TextBoxFor(model => model.name)
+        @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+
+    </p>
+    <p>
+        @Html.LabelFor(model => model.age) &nbsp;
+        @Html.TextBoxFor(model => model.age)
+        @Html.ValidationMessageFor(model => model.age)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.gender) &nbsp;
+        @Html.TextBoxFor(model => model.gender)
+        @Html.ValidationMessageFor(model => model.gender)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.email) &nbsp;
+        @Html.TextBoxFor(model => model.email)
+        @Html.ValidationMessageFor(model => model.email)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.org) &nbsp;
+        @Html.TextBox("org", "laiba")
+        @Html.ValidationMessageFor(model => model.org)
+    </p>
+
+    <input type="submit" value="submit" />
+    @Html.Raw(ViewData["success"])
+}
