@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<nav>
+    <ul>
+        <li>
+            @Html.ActionLink("Home Page", "Index", "Home")
+        </li>
+        <li>
+            @Html.ActionLink("About Us ", "About", "Home")
+        </li>
+        <li>
+            @Html.ActionLink("Contact Us", "Contact", "Home")
+        </li>
+    </ul>
+</nav>
+
+<a href="@Url.Action("About","Home")">About Pagr</a>
+
+<h2>Index</h2>
+
+<input type="text" name="fullname" id="fullname " placeholder="Enter name" />
+@Html.TextBox("fullname");
+@Html.TextBox("fullname", "laiba", new
+{
+    style = "background:lightgreen",
+    title = "Enter name"
+})
+@Html.TextBox("fullname", "fatima", new
+{
+    @class = "TextBoxStyle"
+})
+@Html.TextBox("fullname", "hani", new
+{
+    @class = "form-control"
+})
+
+<h2>Form</h2>
+@{
+    Html.BeginForm("Index", "Home");
+}
+@Html.Label("Username") &nbsp; @Html.TextBox("Username","", new  { @class="form-control"})
+<br />
+@Html.Label("Password") &nbsp; @Html.Password("Password", "", new { @class = "form-control" })
+<br />
+@Html.Label("Male") &nbsp; @Html.RadioButton("Gender", "Male")
+@Html.Label("Female") &nbsp; @Html.RadioButton("Gender", "Female",true)
+<br />
+@Html.Label("Select Country") &nbsp; @Html.DropDownList("Country", new List<SelectListItem>
+{
+new SelectListItem { Text = "Pakistan", Value = "1" },
+new SelectListItem { Text = "India", Value = "2" },
+new SelectListItem { Text = "Bangladesh", Value = "3" }
+}, "Pick", new { @class = "form-control" })
+<br />
+@Html.Label("Favourite Food") &nbsp; @Html.DropDownList("Food", new SelectList(new[] { "Pizza", "Burger", "Biryani" }), "Choose", new { @class = "form-control" })
+<br />
+@Html.Label("comments") &nbsp; @Html.TextArea("comments", "",5,20, new { @class = "form-control" })
+<br />
+@Html.CheckBox("AcceptTerms", true  ) @Html.Label("I Accept Terms")
+<br />
+<input type="button" value="Submit" class="form-control"/>
+
+@{ Html.EndForm();}
+
