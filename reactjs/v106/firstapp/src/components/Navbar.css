@@ -1,0 +1,12 @@
+
+nav ul{
+    
+    background-color: wheat;
+    display:flex;
+
+
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+}
