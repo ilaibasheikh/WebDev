@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>The message: @ViewData["message"]</h2>
+<h2>Received at: @ViewData["date"]</h2>
+<ul>
+    @{ 
+        foreach (var item in (String[])ViewData["fruitsdata"])
+        {
+
+    <li>@item</li>
+        }
+    }
+
+</ul>
+<ul>
+    @{
+        foreach (var item in (List<String>)ViewData["SportsList"])
+        {
+
+            <li>@item</li>
+        }
+    }
+</ul>
+    @{
+        var a = (WebApplication2.Models.Employee)ViewData["Employee"];
+
+    }
+    <p>@a.EmpID</p>
+    <p>@a.EmpName</p>
+    <p>@a.EmpDesignation</p>
