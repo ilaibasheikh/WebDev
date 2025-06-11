@@ -1,0 +1,48 @@
+﻿@*@model WebApplication8.Models.Employee*@
+@model List<WebApplication8.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@{
+
+
+    var a = ViewBag.Employee1;
+}
+<p>
+    ViewBag
+    @a.Id;
+    @a.Name;
+    @a.Age;
+</p>
+
+
+
+@{ var b = (WebApplication8.Models.Employee)ViewData["Employee2"];}
+<p>
+    ViewData
+    @a.Id;
+    @a.Name;
+    @a.Age;
+</p>
+
+
+@*<p>
+    Strongly Typed View
+    @Model.Id
+    @Model.Name
+    @Model.Age
+</p>*@
+<p> Strongly Typed View</p>
+<ul>
+    @{ foreach (var item in Model)
+        {
+            <li>@item.Id</li>
+            <li>@item.Name</li>
+            <li>@item.Age</li>
+        }}
+
+</ul>
