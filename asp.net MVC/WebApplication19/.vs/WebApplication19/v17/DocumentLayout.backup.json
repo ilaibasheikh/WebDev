@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\models\\empdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:models\\empdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication19\\models\\empdatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4B63B5F9-FE5A-4C2D-8D85-4C3193FB2BCF}|WebApplication19.csproj|solutionrelative:models\\empdatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:17:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "managersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Controllers\\managersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\managersController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Controllers\\managersController.cs",
+              "RelativeToolTip": "Controllers\\managersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:16:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Controllers\\empsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\empsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Controllers\\empsController.cs",
+              "RelativeToolTip": "Controllers\\empsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:13:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpDataModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\EmpDataModel.Context.cs",
+              "RelativeDocumentMoniker": "Models\\EmpDataModel.Context.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\EmpDataModel.Context.cs",
+              "RelativeToolTip": "Models\\EmpDataModel.Context.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:08:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\manager.cs",
+              "RelativeDocumentMoniker": "Models\\manager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\manager.cs",
+              "RelativeToolTip": "Models\\manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:08:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpDataModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\EmpDataModel.edmx",
+              "RelativeDocumentMoniker": "Models\\EmpDataModel.edmx",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication19\\Models\\EmpDataModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\EmpDataModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-05T18:03:25.573Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
