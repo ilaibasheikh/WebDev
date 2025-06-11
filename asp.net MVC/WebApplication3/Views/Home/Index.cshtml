@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h2>@ViewBag.Message</h2>
+<h2>@ViewBag.CurrentTime</h2>
+
+
+<ul>
+    @{
+        foreach (string item in ViewBag.FruitsArray)
+        {
+            <li>@item</li>
+        }
+    }
+
+</ul>
+
+<ul>
+    @{
+        foreach (string item in ViewBag.SportsList)
+        {
+            <li>@item</li>
+        }
+    }
+
+</ul>
+
+@{
+    var a = ViewBag.Employee;
+
+}
+<p>@a.EmpID</p>
+<p>@a.EmpName</p>
+<p>@a.EmpDesignation</p>
+
+
+
+
+
+
+
+
+
+
