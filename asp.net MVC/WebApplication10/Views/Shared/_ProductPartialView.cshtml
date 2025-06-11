@@ -1,0 +1,23 @@
+﻿@model  WebApplication10.Models.Product
+<table>
+    <tr>
+        <td><img src="@Url.Content(Model.picture)" alt="pic" width="150" height="150" /></td>
+        <table>
+            <tr>
+
+                <td>Product id </td>
+                <td> @Model.id</td>
+            </tr>
+            <tr>
+
+                <td>Product Name</td>
+                <td> @Model.name</td>
+            </tr>
+            <tr>
+
+                <td>Product Price</td>
+                <td> @Model.price</td>
+            </tr>
+        </table>
+    </tr>
+</table>

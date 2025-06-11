@@ -1,0 +1,30 @@
+﻿@model WebApplication11.Models.SignUp
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <p>@Html.HiddenFor(model => model.id)</p>
+    <p>@Html.DisplayNameFor(model => model.name)</p>
+    <p>@Html.LabelFor(model => model.name) &nbsp; 
+    @Html.TextBoxFor(model => model.name, new { @class = "form-control" })</p>
+    @Html.ValidationMessageFor(model => model.name)
+    <p>@Html.LabelFor(model => model.password) &nbsp;
+    @Html.PasswordFor(model => model.password, new { @class = "form-control" })</p>
+    <p>@Html.LabelFor(model => model.gender)&nbsp;
+    @Html.DropDownListFor(model => model.gender, new SelectList(new[] { "Male", "Female" }), "Select", new { @class = "form-control" })</p>
+    <p>@Html.LabelFor(model => model.email) &nbsp;
+    @Html.EditorFor(model => model.email, new { @class = "form-control" })</p>
+    <p>@Html.LabelFor(model => model.comment) &nbsp;
+    @Html.TextAreaFor(model => model.comment, new { @class = "form-control" })</p>
+    <p>@Html.LabelFor(model => model.num1) &nbsp;
+    @Html.TextBoxFor(model => model.num1, new { @class = "form-control" })</p>
+    <p>@Html.LabelFor(model => model.num2) &nbsp;
+    @Html.TextBoxFor(model => model.num2, new { @class = "form-control" })</p>
+    <input type="submit" value="submit" class="form-control" />
+    <p>The result is @ViewBag.Result</p>
+}
+
+
