@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|c:\\users\\hp\\desktop\\webdev\\asp.net mvc\\webapplication16\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\models\\logindbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:models\\logindbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\models\\logindbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:models\\logindbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4E891AB-B424-4EE6-BDF0-91F585FD289B}|WebApplication16.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\user.cs",
+              "RelativeDocumentMoniker": "Models\\user.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\user.cs",
+              "RelativeToolTip": "Models\\user.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:15:31.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Login\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Login\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Login\\SignUp.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:04:17.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:42:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:42:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:17:54.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:17:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:12:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA6wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:12:03.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDbModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\LoginDbModel.Context.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDbModel.Context.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\LoginDbModel.Context.cs",
+              "RelativeToolTip": "Models\\LoginDbModel.Context.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:15:40.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\LoginDbModel.edmx",
+              "RelativeDocumentMoniker": "Models\\LoginDbModel.edmx",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Models\\LoginDbModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\LoginDbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-04T16:09:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WebDev\\asp.net MVC\\WebApplication16\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAD3AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-04T15:54:04.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1329,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@model WebApplication16.Models.user
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2 class="text-center">Login</h2>
+@TempData["SuccessMessage"]
+
+
+@ViewBag.ErrorMessage
+
+
+<div class="row justify-content-center">
+    <div class="col-md-6 col-lg-4 col-md-offset-4">
+        <div class="p-4 border rounded bg-light">
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            {
+
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+
+                <h4 class="text-center mb-4" style="font-size: 24px;">Login</h4>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.username)
+                    @Html.TextBoxFor(model => model.username, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.password)
+                    @Html.PasswordFor(model => model.password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Login" name="login" class="btn btn-info w-100" />
+                </div>
+
+                <div class="form-group text-center">
+                    @Html.ActionLink("Don't have an account? Sign Up", "SignUp", "Login", null, new { @class = "btn btn-link" })
+                </div>
+            }
+        </div>
+    </div>
+</div>
