@@ -1,0 +1,24 @@
+ #increment-btn{
+    padding: 10px;
+    color: white;
+    background: rgb(97, 1, 1);
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    font-style: italic;
+    cursor: pointer;
+
+
+
+ }
+
+ #save{
+    padding: 10px;
+    color: white;
+    background: rgb(28, 231, 28);
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    font-style: italic;
+    cursor: pointer;
+ }
