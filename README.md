@@ -56,6 +56,21 @@ A simple transparent login form created using HTML and CSS.
 - Cohesive Design
 - [Check Repository](https://github.com/ilaibasheikh/TransparentLoginForm)
 
+### 6. **Black Jack Game**
+![Blackjack](/javascript/Black%20Jack%20Game/1.png)
+![Blackjack](/javascript/Black%20Jack%20Game/2.png)
+![Blackjack](/javascript/Black%20Jack%20Game/3.png)
+![Blackjack](/javascript/Black%20Jack%20Game/4.png)
+
+A simple web-based Blackjack game built using **HTML**, **CSS**, and **JavaScript**.
+
+**Features:**
+- Start a new game with two random cards
+- Draw new cards to reach 21 without exceeding it
+- Win or lose based on your card sum
+- Player's name and chips displayed at the top
+- Customizable game logic and simple UI
+- [Check Repository](https://github.com/ilaibasheikh/WebDev/tree/main/javascript/Black%20Jack%20Game)
 
 ---
 
