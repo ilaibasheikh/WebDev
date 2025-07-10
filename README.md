@@ -72,6 +72,19 @@ A simple web-based Blackjack game built using **HTML**, **CSS**, and **JavaScrip
 - Customizable game logic and simple UI
 - [Check Repository](https://github.com/ilaibasheikh/WebDev/tree/main/javascript/Black%20Jack%20Game)
 
+### 7. **Leads Tracker Chrome Extension**
+![LeadsTracker](/Chrome_Extension/chrome1.png)
+
+
+A handy Chrome Extension to quickly save useful links or tabs for later. Perfect for students, researchers, and developers who want to keep track of important resources without bookmarking every page.
+
+**Features:**
+- Save links manually or from the current tab  
+- Display saved links as clickable items  
+- Persist data using `localStorage`  
+- Delete all leads with a double-click  
+- [Check Repository](https://github.com/ilaibasheikh/WebDev/tree/main/Chrome_Extension)
+
 ---
 
 ## Technologies Used
